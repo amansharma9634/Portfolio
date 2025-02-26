@@ -1,0 +1,142 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 Senior Software Developer with over 6 years of experience specializing in scalable web applications. I excel in writing efficient and testable code, and have strong leadership skills in team settings. My technical expertise includes various programming languages and web development frameworks, and I am committed to delivering high-performance solutions that prioritize user experience and security.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Keeper App",
+        "startDate": "2020",
+        "description": "Developed a Keeper App having the same functionalities as 'Google Keep Notes'.",
+        "images": [
+          "images/portfolio/keeper-app/p2.jpg",
+          "images/portfolio/keeper-app/p1.jpg"
+        ],
+        "url": "https://3mrmz.csb.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "A STORYBOOK WEB APP",
+        "startDate": "2021",
+        "description": "A web-app in which users can login using their Gmail account and write stories, with the option to share publicly or keep them private.",
+        "images": [
+          "images/portfolio/storybook/p1.png",
+          "images/portfolio/storybook/p2.png"
+        ],
+        "url": "https://github.com/amansharma9634/Storybook-App",
+        "technologies": [
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "SHOPPING-CART SITE",
+        "startDate": "2021",
+        "description": " In this website we have various functionalities like browsing various items and adding/removing different items to the cart",
+        "images": [
+          "images/portfolio/shopping/p1.jpg"
+        ],
+        "url": "https://github.com/amansharma9634/Shopping-Cart",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-redux-plain",
+            "name": "Redux"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Globant",
+        "title": "Senior Software Developer",
+        "years": "04.2022 - present",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "REST API",
+          "Redux Toolkit",
+          "TypeScript",
+          "AWS Amplify",
+          "MicroFrontend",
+          "SEO",
+          "Web Performance",
+          "JWT"
+        ]
+      },
+      {
+        "company": "KPMG Global Services",
+        "title": "Associate Consultant",
+        "years": "05.2021 - 04.2022",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "Redux",
+          "HighCharts",
+          "Bootstrap",
+          "JavaScript",
+          "SASS/SCSS",
+          "Jest / RTL"
+        ]
+      },
+      {
+        "company": "Wipro Technologies",
+        "title": "Project Engineer",
+        "years": "08.2019 - 04.2021",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "Node",
+          "Express",
+          "Mongo DB",
+          "JavaScript",
+          "HTML5",
+          "CSS3",
+          "JEST"
+        ]
+      },
+      {
+        "company": "Wipro Technologies",
+        "title": "Intern",
+        "years": "02.2019 - 05.2019",
+        "mainTech": [
+          "C++"
+        ],
+        "technologies": [
+          "C++",
+          "KNX System"
+        ]
+      }
+    ]
+  }
